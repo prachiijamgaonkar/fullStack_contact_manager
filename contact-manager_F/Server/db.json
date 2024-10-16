@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "@A121",
+      "name": "ajay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "989898989",
+      "email": "ajay123@gmail.com",
+      "company": "WIPRO",
+      "title": "Software Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "6879",
+      "name": "Rahul",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "6547845165",
+      "email": "rahul@gmail.com",
+      "title": "Software Tester",
+      "company": "TCS",
+      "groupId": "Friends"
+    },
+    {
+      "id": "4d89",
+      "name": "Suresh",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "9874665164",
+      "email": "suresh@gmail.com",
+      "title": "Software Developer",
+      "company": "WIPRO",
+      "groupId": "Friends"
+    },
+    {
+      "id": "7968",
+      "name": "Mahesh",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "9856135465",
+      "email": "mahesh@gmail.com",
+      "title": "Software Engineer",
+      "company": "ACC",
+      "groupId": "Family"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Social"
+    },
+    {
+      "id": "4",
+      "name": "College"
+    },
+    {
+      "id": "5",
+      "name": "Friends"
+    },
+    {
+      "id": "6",
+      "name": "Community"
+    }
+  ]
+}
